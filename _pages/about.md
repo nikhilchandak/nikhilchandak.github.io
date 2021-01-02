@@ -20,4 +20,4 @@ News
 
 Collaborate?
 ------
-If you working on a project and feel I could be worth collaborating, reach out to me [here](mailto:nikchandak1+collab@gmail.com)
+If you are working on a project and feel I could be worth collaborating or a challenging problem in which I might be interested, you can reach out to me [here](mailto:nikchandak1+collab@gmail.com)
