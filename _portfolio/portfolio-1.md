@@ -1,6 +1,8 @@
 ---
 title: "GhostBusters"
-excerpt: "Pacman hunts invisible ghosts through noisy readings of their proximity<br/><img src='/images/ghostBusters.gif' width="577" height="456">"
+excerpt: "Pacman hunts invisible ghosts through noisy readings of their proximity<br/><img src='/images/ghostBusters.gif' width='577' height='456'>"
+date: 2020-06-14
+permalink: https://inst.eecs.berkeley.edu/~cs188/fa18/project4.html
 collection: portfolio
 ---
 
