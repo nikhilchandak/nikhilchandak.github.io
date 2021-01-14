@@ -1,6 +1,6 @@
 ---
 title: "GhostBusters"
-excerpt: "Pacman hunts invisible ghosts through noisy readings of their proximity<br/><img src='/images/ghostBusters.gif'> width="577" height="456"
+excerpt: "Pacman hunts invisible ghosts through noisy readings of their proximity<br/><img src='/images/ghostBusters.gif' width="577" height="456">"
 collection: portfolio
 ---
 
