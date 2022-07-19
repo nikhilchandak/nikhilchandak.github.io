@@ -13,9 +13,10 @@ About
 I'm an undergraduate student studying Computer Science at IIIT, Hyderabad. My broad interests are in applied math domains. 
 
 
-News
+Recent
 ------
-* None for now. Check back for more :) 
+* .
+* In May, I began my research internship at [LAMSADE, Université Paris Dauphine - PSL](https://www.lamsade.dauphine.fr/) under [Dr.Jérôme Lang](https://www.lamsade.dauphine.fr/~lang/) and [Dominik Peters](https://dominik-peters.de/). I am working at the intersection of computational social choice and ML, focusing on long-term fairness in the paradigm of [virtual democracy](https://www.youtube.com/watch?v=_R_wfUhLls0). 
 
 
 Collaborate?
