@@ -121,7 +121,7 @@ You can also find my articles on my
   publisher={IEEE}
 }
 </pre></div>
-              </details>        
+    </details>        
 <!--
     [[arXiv](https://arxiv.org/abs/2205.04548)]
     [[code]()]
