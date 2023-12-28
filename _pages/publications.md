@@ -44,8 +44,7 @@ You can also find my articles on my
     <i>IEEE Transactions on Automation Science and Engineering (T-ASE)</i>, 2023. To be presented at ICRA'24 Journal track.  
     [[arXiv](https://arxiv.org/abs/2205.04548)]
     [[code](https://github.com/nikhilchandak/InformedSteinerTrees)]
-    <!-- [[Paper](../files/ren22_mocbs_tase_final.pdf)] -->   
-    [[ICAPS 2023 PlanRobot Workshop - Oral Talk](https://youtu.be/-IcSHw5EfaU)]        
+    [[ICAPS 2023 PlanRobo Workshop - Oral Talk](https://youtu.be/-IcSHw5EfaU)]        
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-chandak2023informed');">bibtex</a>]
     <!-- [[publisher](https://doi.org/10.1007/s10514-023-10148-y)] --> 
 <div id="bibtex-chandak2023informed" style="display:none">
