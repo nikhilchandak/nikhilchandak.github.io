@@ -123,7 +123,8 @@ You can also find my articles on my
 }
 </pre>
 </div>
-    </details>   
+
+</details>   
 
 <!--
     [[arXiv](https://arxiv.org/abs/2205.04548)]
