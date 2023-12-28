@@ -46,7 +46,8 @@ paper {
 }
 
 
-#bibtex-chandak2023informed {
+/* #bibtex-chandak2023informed */
+.bibtex {
   display: none; /* Keeps the BibTex hidden by default */
   background-color: #f9f9f9; /* Light background for the BibTex block */
   border: 1px solid #ddd; /* Adds a border around the BibTex block */
@@ -55,11 +56,11 @@ paper {
   white-space: pre-wrap; /* Preserves formatting and wraps text */
   font-family: "Courier New", monospace; /* Sets font to monospace for code-like appearance */
 }
-
+/*
 #bibtex-chandak2023informed pre {
-  margin: 0px; /* Removes default margin from pre tag */
+  margin: 5px; /* Removes default margin from pre tag */
 }
-
+*/
 
 </style>
 
@@ -92,7 +93,7 @@ You can also find my articles on my
     <!-- [[arXiv](https://arxiv.org/abs/2306.14858)] -->
     <!-- [<a href="https://arxiv.org/abs/2306.14858">Arxiv</a> | <a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-chandak2023proportional');">bibtex</a>] --> 
     <!-- [[code](https://github.com/lunjohnzhang/warehouse_env_gen_nca_public)]   -->  
-<div id="bibtex-chandak2023proportional" style="display:none">
+<div id="bibtex-chandak2023proportional" class="bibtex" style="display:none">
 <pre>@article{chandak2023proportional,
   title={Proportional Aggregation of Preferences for Sequential Decision Making},
   author={Chandak, Nikhil and Goel, Shashwat and Peters, Dominik},
@@ -112,8 +113,9 @@ You can also find my articles on my
                   <p class="message">
                   We interleave sampling based motion planning methods with pruning ideas from minimum spanning tree algorithms to develop a new approach for solving a Multi-Goal Path Finding (MGPF) problem in high dimensional spaces. The approach alternates between sampling points from selected regions in the search space and de-emphasizing regions that may not lead to good solutions for MGPF. Our approach provides an asymptotic, 2-approximation guarantee for MGPF. We also present extensive numerical results to illustrate the advantages of our proposed approach over uniform sampling in terms of the quality of the solutions found and computation speed. 
                   </p>
-  
-<div id="bibtex-chandak2023informed" style="display:none">
+</details>  
+
+<div id="bibtex-chandak2023informed" class="bibtex" style="display:none">
 <pre>@article{chandak2023informed,
   title={Informed steiner trees: Sampling and pruning for multi-goal path finding in high dimensions},
   author={Chandak, Nikhil and Chour, Kenny and Rathinam, Sivakumar and Ravi, Ramamoorthi},
@@ -123,8 +125,6 @@ You can also find my articles on my
 }
 </pre>
 </div>
-
-</details>   
 
 <!--
     [[arXiv](https://arxiv.org/abs/2205.04548)]
