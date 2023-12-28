@@ -21,10 +21,10 @@ News
   <summary>Old</summary>
   <ul>
     <li>
-        From 21<sup>st</sup> June'22, I will be in Vienna, Austria, attending [SoCS'22](https://sites.google.com/unibs.it/socs2022/home?authuser=0) and [IJCAI'22](https://ijcai-22.org/).
+        From 21<sup>st</sup> June'22, I will be in Vienna, Austria, attending <a href="https://sites.google.com/unibs.it/socs2022/home?authuser=0">SoCS'22</a> and <a href="https://ijcai-22.org/">IJCAI'22</a>.
     </li>
     <li>
-      In May 2022, I began my research internship at [LAMSADE, Université Paris Dauphine - PSL](https://www.lamsade.dauphine.fr/) under [Dr. Jérôme Lang](https://www.lamsade.dauphine.fr/~lang/) and [Dominik Peters](https://dominik-peters.de/). I am working at the intersection of computational social choice and ML, focusing on long-term fairness in the paradigm of [virtual democracy](https://www.youtube.com/watch?v=_R_wfUhLls0). 
+      In May 2022, I began my research internship at <a href="https://www.lamsade.dauphine.fr/">LAMSADE, Université Paris Dauphine - PSL</a> under <a href="https://www.lamsade.dauphine.fr/~lang/">Dr. Jérôme Lang</a> and <a href="https://dominik-peters.de/">Dominik Peters</a>. I am working at the intersection of computational social choice and automated decision-making, focusing on long-term fairness in the paradigm of <a href="https://www.youtube.com/watch?v=_R_wfUhLls0">virtual democracy</a>. 
      </li>
   </ul>
 </details>
