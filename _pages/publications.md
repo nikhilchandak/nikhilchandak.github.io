@@ -78,23 +78,30 @@ You can also find my articles on my
     <!-- [<a href="https://arxiv.org/abs/2306.14858">Arxiv</a> | <a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-chandak2023proportional');">bibtex</a>] --> 
     <!-- [[code](https://github.com/lunjohnzhang/warehouse_env_gen_nca_public)]   -->  
 <div id="bibtex-chandak2023proportional" style="display:none">
-<pre>@article{chandak2023proportional,
+@article{chandak2023proportional,
   title={Proportional Aggregation of Preferences for Sequential Decision Making},
   author={Chandak, Nikhil and Goel, Shashwat and Peters, Dominik},
   journal={arXiv preprint arXiv:2306.14858},
   year={2023}
 }
-</pre></div>
+</div>
 
 ## <a name="year2023"></a> 2023  
 
 * [Informed Steiner Trees: Sampling and Pruning for Multi-Goal Path Finding in High Dimensions](https://ieeexplore.ieee.org/abstract/document/10243500/).          
    **Nikhil Chandak**, Kenny Chour, Sivakumar Rathinam, R. Ravi.            
     <i>IEEE Transactions on Automation Science and Engineering (T-ASE)</i>, 2023. To be presented at ICRA'24 Journal track.  
+    ICAPS PlanRobo Workshop 2023.
+    <details>
+                <summary>Abstract |  <a href="https://arxiv.org/abs/2205.04548">Arxiv</a> | <a href="https://github.com/nikhilchandak/InformedSteinerTrees">Code</a> | <a href="https://youtu.be/-IcSHw5EfaU">Talk</a> | <a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-chandak2023informed');">Bibtex</a> </summary>   
+                  <p class="message">
+                  We interleave sampling based motion planning methods with pruning ideas from minimum spanning tree algorithms to develop a new approach for solving a Multi-Goal Path Finding (MGPF) problem in high dimensional spaces. The approach alternates between sampling points from selected regions in the search space and de-emphasizing regions that may not lead to good solutions for MGPF. Our approach provides an asymptotic, 2-approximation guarantee for MGPF. We also present extensive numerical results to illustrate the advantages of our proposed approach over uniform sampling in terms of the quality of the solutions found and computation speed. 
+                  </p>
+              </details>        
+<!--
     [[arXiv](https://arxiv.org/abs/2205.04548)]
-    [[code](https://github.com/nikhilchandak/InformedSteinerTrees)]
+    [[code]()]
     [[ICAPS 2023 PlanRobo Workshop - Oral Talk](https://youtu.be/-IcSHw5EfaU)]        
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-chandak2023informed');">bibtex</a>]
     <!-- [[publisher](https://doi.org/10.1007/s10514-023-10148-y)] --> 
 <div id="bibtex-chandak2023informed" style="display:none">
 <pre>@article{chandak2023informed,
