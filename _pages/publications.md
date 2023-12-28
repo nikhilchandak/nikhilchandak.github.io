@@ -45,7 +45,7 @@ You can also find my articles on
 * [Informed Steiner Trees: Sampling and Pruning for Multi-Goal Path Finding in High Dimensions](https://ieeexplore.ieee.org/abstract/document/10243500/).          
    **Nikhil Chandak**, Kenny Chour, Sivakumar Rathinam, R. Ravi.            
     <i>IEEE Transactions on Automation Science and Engineering (T-ASE)</i>, 2022.\
-    To be presented at ICRA'24. <br>
+    To be presented at ICRA'24.<br>
     <!-- [[Paper](../files/ren22_mocbs_tase_final.pdf)] -->   
     [[arXiv](https://arxiv.org/abs/2205.04548)]
     [[code](https://github.com/nikhilchandak/InformedSteinerTrees)]
