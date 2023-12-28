@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ------
-I'm a final-year student majoring in Computer Science at IIIT, Hyderabad. My broad research interests are in *multi-agent systems*.
+I'm a final-year student majoring in Computer Science at IIIT, Hyderabad. My broad research interests are in *multi-agent systems*. I am currently working in the domain of empirical game-theoretical analysis and in the past, have worked on computational social choice and path planning in robotics. 
 
 
 News
