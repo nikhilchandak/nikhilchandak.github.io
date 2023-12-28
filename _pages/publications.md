@@ -24,9 +24,15 @@ You can also find my articles on my
 
 * [Proportional Aggregation of Preferences for Sequential Decision Making](https://arxiv.org/abs/2306.14858).     
     **Nikhil Chandak**, Shashwat Goel, Dominik Peters.\
-    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2024.            
-    [[arXiv](https://arxiv.org/abs/2306.14858)]
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-chandak2023proportional');">bibtex</a>]
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2024.
+    <details>
+                <summary>Abstract |  <a href="https://arxiv.org/abs/2306.14858">Arxiv</a> | <a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-chandak2023proportional');">bibtex</a> </summary>   
+                  <p class="message">
+                  We study the problem of fair sequential decision making given voter preferences. In each round, a decision rule must choose a decision from a set of alternatives where each voter reports which of these alternatives they approve. Instead of going with the most popular choice in each round, we aim for proportional representation. We formalize this aim using axioms based on Proportional Justified Representation (PJR), which were proposed in the literature on multi-winner voting and were recently adapted to multi-issue decision making. The axioms require that every group of α% of the voters, if it agrees in every round (i.e., approves a common alternative), then those voters must approve at least α% of the decisions. A stronger version of the axioms requires that every group of α% of the voters that agrees in a β fraction of rounds must approve β⋅α% of the decisions. We show that three attractive voting rules satisfy axioms of this style. One of them (Sequential Phragmén) makes its decisions online, and the other two satisfy strengthened versions of the axioms but make decisions semi-online (Method of Equal Shares) or fully offline (Proportional Approval Voting). The first two are polynomial-time computable, and the latter is based on an NP-hard optimization, but it admits a polynomial-time local search algorithm that satisfies the same axiomatic properties. We present empirical results for these rules based on synthetic data and U.S. political elections. We also run experiments using the moral machine dataset about ethical dilemmas. We train preference models on user responses from different countries and let the models cast votes. We find that aggregating these votes using our rules leads to a more equal utility distribution across demographics than making decisions using a single global preference model.
+                  </p>
+              </details>           
+    <!-- [[arXiv](https://arxiv.org/abs/2306.14858)] -->
+    <!-- [<a href="https://arxiv.org/abs/2306.14858">Arxiv</a> | <a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-chandak2023proportional');">bibtex</a>] --> 
     <!-- [[code](https://github.com/lunjohnzhang/warehouse_env_gen_nca_public)]   -->  
 <div id="bibtex-chandak2023proportional" style="display:none">
 <pre>@article{chandak2023proportional,
