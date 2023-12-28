@@ -57,7 +57,7 @@ paper {
 }
 
 #bibtex-chandak2023informed pre {
-  margin: 30px; /* Removes default margin from pre tag */
+  margin: 50px; /* Removes default margin from pre tag */
 }
 
 
@@ -113,7 +113,8 @@ You can also find my articles on my
                   We interleave sampling based motion planning methods with pruning ideas from minimum spanning tree algorithms to develop a new approach for solving a Multi-Goal Path Finding (MGPF) problem in high dimensional spaces. The approach alternates between sampling points from selected regions in the search space and de-emphasizing regions that may not lead to good solutions for MGPF. Our approach provides an asymptotic, 2-approximation guarantee for MGPF. We also present extensive numerical results to illustrate the advantages of our proposed approach over uniform sampling in terms of the quality of the solutions found and computation speed. 
                   </p>
     </details>   
-  <div id="bibtex-chandak2023informed" style="display:none">
+  
+<div id="bibtex-chandak2023informed" style="display:none">
 <pre>@article{chandak2023informed,
   title={Informed steiner trees: Sampling and pruning for multi-goal path finding in high dimensions},
   author={Chandak, Nikhil and Chour, Kenny and Rathinam, Sivakumar and Ravi, Ramamoorthi},
@@ -121,7 +122,8 @@ You can also find my articles on my
   year={2023},
   publisher={IEEE}
 }
-</pre></div>
+</pre>
+</div>
 <!--
     [[arXiv](https://arxiv.org/abs/2205.04548)]
     [[code]()]
