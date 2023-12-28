@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 
-You can also find my articles on 
-<a href="https://scholar.google.com/citations?user=8_lfEOsAAAAJ&hl=en">my Google Scholar profile</a>.
--->
+You can also find my articles on my
+<a href="https://scholar.google.com/citations?user=8_lfEOsAAAAJ&hl=en"> Google Scholar profile</a>.
 
 <!--
 {% include base_path %}
@@ -16,7 +15,7 @@ You can also find my articles on
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
+-->
 
 
 {% include base_path %}
@@ -42,7 +41,7 @@ You can also find my articles on
 
 * [Informed Steiner Trees: Sampling and Pruning for Multi-Goal Path Finding in High Dimensions](https://ieeexplore.ieee.org/abstract/document/10243500/).          
    **Nikhil Chandak**, Kenny Chour, Sivakumar Rathinam, R. Ravi.            
-    <i>IEEE Transactions on Automation Science and Engineering (T-ASE)</i>, 2023. To be presented at ICRA'24.  
+    <i>IEEE Transactions on Automation Science and Engineering (T-ASE)</i>, 2023. To be presented at ICRA'24 Journal track.  
     [[arXiv](https://arxiv.org/abs/2205.04548)]
     [[code](https://github.com/nikhilchandak/InformedSteinerTrees)]
     <!-- [[Paper](../files/ren22_mocbs_tase_final.pdf)] -->   
