@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
 {% endif %}
 
 <!--
@@ -45,11 +45,11 @@ You can also find my articles on
 * [Informed Steiner Trees: Sampling and Pruning for Multi-Goal Path Finding in High Dimensions](https://ieeexplore.ieee.org/abstract/document/10243500/).          
    **Nikhil Chandak**, Kenny Chour, Sivakumar Rathinam, R. Ravi.            
     <i>IEEE Transactions on Automation Science and Engineering (T-ASE)</i>, 2022.\
-    To be Presented at ICRA'24.\
+    To be presented at ICRA'24. <br>
     <!-- [[Paper](../files/ren22_mocbs_tase_final.pdf)] -->   
     [[arXiv](https://arxiv.org/abs/2205.04548)]
-    [[Code](https://github.com/nikhilchandak/InformedSteinerTrees)]
-    [[ICAPS 2023 PlanRobo Workshop - Oral Talk](https://youtu.be/-IcSHw5EfaU)]              
+    [[code](https://github.com/nikhilchandak/InformedSteinerTrees)]
+    [[ICAPS 2023 PlanRobot Workshop - Oral Talk](https://youtu.be/-IcSHw5EfaU)]        
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-chandak2023informed');">bibtex</a>]
     <!-- [[publisher](https://doi.org/10.1007/s10514-023-10148-y)] --> 
 <div id="bibtex-chandak2023informed" style="display:none">
