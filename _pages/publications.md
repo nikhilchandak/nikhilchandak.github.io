@@ -25,7 +25,7 @@ You can also find my articles on
 
 ## <a name="year2024"></a> 2024  
 
-* [Proportional Aggregation of Preferences for Sequential Decision Making]().     
+* [Proportional Aggregation of Preferences for Sequential Decision Making](https://arxiv.org/abs/2306.14858).     
     **Nikhil Chandak**, Shashwat Goel, Dominik Peters.\
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2024.            
     [[arXiv](https://arxiv.org/abs/2306.14858)]
