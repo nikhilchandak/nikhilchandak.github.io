@@ -26,7 +26,7 @@ You can also find my articles on
 ## <a name="year2024"></a> 2024  
 
 * [Proportional Aggregation of Preferences for Sequential Decision Making]().     
-    **Nikhil Chandak**, Shashwat Goel, Dominik Peters.
+    **Nikhil Chandak**, Shashwat Goel, Dominik Peters.\
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2024.            
     [[arXiv](https://arxiv.org/abs/2306.14858)]
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-chandak2023proportional');">bibtex</a>]
@@ -43,16 +43,15 @@ You can also find my articles on
 ## <a name="year2023"></a> 2023  
 
 * [Informed Steiner Trees: Sampling and Pruning for Multi-Goal Path Finding in High Dimensions](https://ieeexplore.ieee.org/abstract/document/10243500/).          
-   **Nikhil Chandak**, Kenny Chour, Sivakumar Rathinam, R. Ravi.\            
+   **Nikhil Chandak**, Kenny Chour, Sivakumar Rathinam, R. Ravi.            
     <i>IEEE Transactions on Automation Science and Engineering (T-ASE)</i>, 2022.\
     To be Presented at ICRA'24.\
-    [[Bibtex](https://wonderren.github.io/files/bibtex_ren22mocbs.txt)]
     <!-- [[Paper](../files/ren22_mocbs_tase_final.pdf)] -->   
     [[arXiv](https://arxiv.org/abs/2205.04548)]
     [[Code](https://github.com/nikhilchandak/InformedSteinerTrees)]
     [[ICAPS 2023 PlanRobo Workshop - Oral Talk](https://youtu.be/-IcSHw5EfaU)]              
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-chandak2023informed');">bibtex</a>]
-    [[publisher](https://doi.org/10.1007/s10514-023-10148-y)]
+    <!-- [[publisher](https://doi.org/10.1007/s10514-023-10148-y)] --> 
 <div id="bibtex-chandak2023informed" style="display:none">
 <pre>@article{chandak2023informed,
   title={Informed steiner trees: Sampling and pruning for multi-goal path finding in high dimensions},
@@ -62,4 +61,3 @@ You can also find my articles on
   publisher={IEEE}
 }
 </pre></div>
--->
