@@ -83,7 +83,7 @@ You can also find my articles on my
 
 * [Proportional Aggregation of Preferences for Sequential Decision Making](https://arxiv.org/abs/2306.14858).     
     **Nikhil Chandak**, Shashwat Goel, Dominik Peters.\
-    **(Oral)** <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2024.
+    **(Oral)** <i>AAAI Conference on Artificial Intelligence (AAAI)</i>, (in print), 2024.
     <details>
                 <summary>Abstract |  <a href="https://arxiv.org/abs/2306.14858">Arxiv</a> | <a href="https://youtu.be/kjZG89iDzuU">Talk</a> | <a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Bibtex') } else { $('#' + id).show('fast'); $(target).text('Bibtex▲') } })(this, 'bibtex-chandak2023proportional');">Bibtex</a> </summary>   
                   <p class="message">
