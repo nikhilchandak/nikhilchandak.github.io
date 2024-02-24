@@ -16,6 +16,7 @@ I'm a final-year Master's student majoring in Computer Science at IIIT, Hyderaba
 
 News
 ------
+* [Feb 22nd] Our [paper]((https://arxiv.org/abs/2306.14858) won the <span style="color: red;"> Outstanding Paper Award </span> 🏆 at AAAI'24!
 * From Jan. 2024, I will be working with [Prof. Gillian Hadfield](https://vectorinstitute.ai/team/gillian-k-hadfield/) at the [Vector Institute](https://vectorinstitute.ai/) in Toronto on how to make autonomous agents adaptive to social norms to incentivize cooperative behavior.
 * Our paper on [Proportional Aggregation of Preferences for Sequential Decision Making](https://arxiv.org/abs/2306.14858) got accepted for **oral** presentation at AAAI'24! I will be in Vancouver, Canada in February  presenting our work. Hit me up if you would like to chat!   
 <details>
