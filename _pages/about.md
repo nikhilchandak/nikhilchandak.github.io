@@ -11,17 +11,22 @@ redirect_from:
 <!-- About
 ------
 -->
-I'm a final-year Master's student majoring in Computer Science at IIIT, Hyderabad. My broad research interests are in *understanding the dynamics of multi-agent systems to ensure that the collective outcome is safe and positive*. I am currently working in the domain of empirical game-theoretical analysis and in the past, have worked on computational social choice and path planning in robotics. 
+
+I'm a first-year ELLIS PhD student at the Max Planck Institute for Intelligent Systems, advised by Prof. <a href="https://www.mrtz.org/">Moritz Hardt</a>. My current research interests span alignment, emergent capabilities, and benchmarking of foundation models. In the past, I have worked on different research topics under the overarching domain of multi-agent systems.
 
 
 News
 ------
-* [Feb 22nd] Our [work](https://arxiv.org/abs/2306.14858) won the <span style="color: red;"> Outstanding Paper Award </span> 🏆 at AAAI'24! 
-* From Jan. 2024, I will be working with [Prof. Gillian Hadfield](https://vectorinstitute.ai/team/gillian-k-hadfield/) at the [Vector Institute](https://vectorinstitute.ai/) in Toronto on how to make autonomous agents adaptive to social norms to incentivize cooperative behavior.
-* Our paper on [Proportional Aggregation of Preferences for Sequential Decision Making](https://arxiv.org/abs/2306.14858) got accepted for **oral** presentation at AAAI'24! I will be in Vancouver, Canada in February  presenting our work. Hit me up if you would like to chat!   
+* Started PhD in September!
 <details>
   <summary>Old</summary>
   <ul>
+    <li>
+      From Feb. to May 2024, I was in Toronto working with [Prof. Gillian Hadfield](https://vectorinstitute.ai/team/gillian-k-hadfield/) at the [Vector Institute](https://vectorinstitute.ai/) exploring the scope of normative alignment in RL-based agents. 
+    </li>
+    <li>
+      [Feb 22nd] Our [work](https://arxiv.org/abs/2306.14858) won the <span style="color: red;"> Outstanding Paper Award </span> at AAAI'24! 
+    </li>
     <li>
         From 21<sup>st</sup> June'22, I will be in Vienna, Austria, attending <a href="https://sites.google.com/unibs.it/socs2022/home?authuser=0">SoCS'22</a> and <a href="https://ijcai-22.org/">IJCAI'22</a>.
     </li>
