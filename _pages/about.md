@@ -22,10 +22,10 @@ News
   <summary>Old</summary>
   <ul>
     <li>
-      From Feb. to May 2024, I was in Toronto working with [Prof. Gillian Hadfield](https://vectorinstitute.ai/team/gillian-k-hadfield/) at the [Vector Institute](https://vectorinstitute.ai/) exploring the scope of normative alignment in RL-based agents. 
+      From Feb. to May 2024, I was in Toronto working with <a href="https://vectorinstitute.ai/team/gillian-k-hadfield/">Prof. Gillian Hadfield</a> at the <a href="https://vectorinstitute.ai/">Vector Institute</a> exploring the scope of normative alignment in RL-based agents. 
     </li>
     <li>
-      [Feb 22nd] Our [work](https://arxiv.org/abs/2306.14858) won the <span style="color: red;"> Outstanding Paper Award </span> at AAAI'24! 
+      [Feb 22nd] Our work on <a href="https://arxiv.org/abs/2306.14858">fair sequential decision making</a> won the <span style="color: red;"> Outstanding Paper Award </span> at AAAI'24! 
     </li>
     <li>
         From 21<sup>st</sup> June'22, I will be in Vienna, Austria, attending <a href="https://sites.google.com/unibs.it/socs2022/home?authuser=0">SoCS'22</a> and <a href="https://ijcai-22.org/">IJCAI'22</a>.
