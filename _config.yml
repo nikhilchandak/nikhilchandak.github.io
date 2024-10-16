@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nikhil Chandak"
   avatar           : "disneyland1.jpg"
-  bio              : "CS Senior at IIIT, Hyderabad"
-  location         : "Kolkata, India"
+  bio              : "PhD Candidate"
+  location         : "Tübingen, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "citations?user=8_lfEOsAAAAJ&hl=en" # "http://yourfullgooglescholarurl.com"
-  email            : "nikhil.chandak@research.iiit.ac.in"
+  email            : "nikhil.chandak@tuebingen.mpg.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
