@@ -83,7 +83,7 @@ You can also find my articles on my
 
 * [Proportional Aggregation of Preferences for Sequential Decision Making](https://arxiv.org/abs/2306.14858).     
     **Nikhil Chandak**, Shashwat Goel, Dominik Peters.\
-    **(Oral)** <i>AAAI Conference on Artificial Intelligence (AAAI)</i>, (in print), 2024.\
+      <i>AAAI Conference on Artificial Intelligence (AAAI)</i>, (in print), 2024.\
       <span style="color: red;"> Outstanding Paper Award </span> 🏆 (Top 3 out of 12000+)
     <details>
                 <summary>Abstract |  <a href="https://arxiv.org/abs/2306.14858">Arxiv</a> | <a href="https://youtu.be/kjZG89iDzuU">Video</a> | <a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Bibtex') } else { $('#' + id).show('fast'); $(target).text('Bibtex▲') } })(this, 'bibtex-chandak2023proportional');">Bibtex</a> </summary>   
@@ -107,7 +107,7 @@ You can also find my articles on my
 
 * [Informed Steiner Trees: Sampling and Pruning for Multi-Goal Path Finding in High Dimensions](https://ieeexplore.ieee.org/abstract/document/10243500/).          
    **Nikhil Chandak**, Kenny Chour, Sivakumar Rathinam, R. Ravi.            
-    <i>IEEE Transactions on Automation Science and Engineering (T-ASE)</i>, 2023. To be presented at ICRA'24 Journal track.  
+    <i>IEEE Transactions on Automation Science and Engineering (T-ASE)</i>, 2023.   
     ICAPS PlanRobo Workshop 2023.
     <details>
                 <summary>Abstract | <a href="https://arxiv.org/abs/2205.04548">Arxiv</a> | <a href="https://github.com/nikhilchandak/InformedSteinerTrees">Code</a> | <a href="https://youtu.be/-IcSHw5EfaU">Video</a> | <a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Bibtex') } else { $('#' + id).show('fast'); $(target).text('Bibtex▲') } })(this, 'bibtex-chandak2023informed');">Bibtex</a> </summary>   
