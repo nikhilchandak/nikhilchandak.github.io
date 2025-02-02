@@ -86,7 +86,7 @@ author:
   location         : "Tübingen, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "citations?user=8_lfEOsAAAAJ&hl=en" # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=8_lfEOsAAAAJ&hl=en" # "http://yourfullgooglescholarurl.com"
   email            : "nikhil.chandak@tuebingen.mpg.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
