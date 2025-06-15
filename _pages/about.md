@@ -17,6 +17,7 @@ I'm a first-year ELLIS PhD student at the Max Planck Institute for Intelligent S
 
 News
 ------
+* I will be attending the <a href="https://events.ycombinator.com/ai-sus">YC AI Startup School</a> from June 15-21. If you are in SF and would like to chat anything about startups or AI research (evals, scalable oversight, forecasting, and more), do reach out to me! 
 * Started PhD in September!
 <details>
   <summary>Old</summary>
