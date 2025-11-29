@@ -21,7 +21,7 @@ These days, I am most excited about:
     synthetic data (problem) generation pipelines for RL.
   </li>
   <li>
-    pushing model's capabilities in hard exploration problems (eg: where model's pass@k is ~0) via curriculum learning techniques and targeted synthetic data. The end-goal here would be to approach scientific discovery problems like open math conjectures.
+    pushing model's capabilities in hard exploration problems (where pass@k is ~0) via curriculum learning techniques. The end-goal here would be to approach scientific discovery problems like open math conjectures.
   </li>
   <li>
     agentic training of LLMs for long-horizon tasks with tool use. 
