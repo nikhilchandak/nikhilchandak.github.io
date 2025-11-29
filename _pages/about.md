@@ -12,7 +12,7 @@ redirect_from:
 ------
 -->
 
-I'm a ELLIS PhD student at the Max Planck Institute for Intelligent Systems, advised by Prof. <a href="https://www.mrtz.org/">Moritz Hardt</a>. My current research is broadly in the domain of LLM post-training and AI evals. These days, I am most excited about:
+I'm a ELLIS PhD student at the Max Planck Institute for Intelligent Systems, advised by Prof. <a href="https://www.mrtz.org/">Moritz Hardt</a>. My research is broadly in the domain of LLM post-training and AI evals. These days, I am most excited about:
 
 <ul>
   <li>
