@@ -79,6 +79,68 @@ You can also find my articles on my
 
 {% include base_path %}
 
+## <a name="year2026"></a> 2026  
+
+* [FutureSim: Replaying World Events to Evaluate Adaptive Agents](https://arxiv.org/abs/2605.15188).     
+    Shashwat Goel, **Nikhil Chandak**, Arvindh Arun, Ameya Prabhu, Steffen Staab, Moritz Hardt, Maksym Andriushchenko, Jonas Geiping.\
+      <i>AI for Forecasting Workshop, ICML</i>, 2026. <span style="color: red;"> Oral </span>
+    <details>
+                <summary>Abstract | <a href="https://arxiv.org/abs/2605.15188">Arxiv</a> | <a href="https://openforecaster.github.io">Website</a> | <a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Bibtex') } else { $('#' + id).show('fast'); $(target).text('Bibtex▲') } })(this, 'bibtex-goel2026futuresim');">Bibtex</a> </summary>   
+                  <p class="message">
+                  We introduce FutureSim, a benchmark that replays real-world events to evaluate how forecasting agents adapt their beliefs as new information arrives over real-world time. Agents make predictions about world events beyond their knowledge cutoff while interacting with a chronological replay of the world through real news articles arriving and questions resolving over the simulated period. Evaluating frontier agents on their ability to predict world events over a three-month period (January–March 2026), we find a clear separation in their capabilities, with the best agent's accuracy being 25%, and many having worse Brier skill score than making no prediction at all. FutureSim provides a testbed for emerging techniques such as test-time adaptation, search, memory, and uncertainty reasoning in realistic long-horizon scenarios.
+                  </p>
+    </details>
+
+<div id="bibtex-goel2026futuresim" class="bibtex" style="display:none">
+<pre>@article{goel2026futuresim,
+  title={FutureSim: Replaying World Events to Evaluate Adaptive Agents},
+  author={Goel, Shashwat and Chandak, Nikhil and Arun, Arvindh and Prabhu, Ameya and Staab, Steffen and Hardt, Moritz and Andriushchenko, Maksym and Geiping, Jonas},
+  journal={arXiv preprint arXiv:2605.15188},
+  year={2026}
+}
+</pre></div>
+
+## <a name="year2025"></a> 2025  
+
+* [Scaling Open-Ended Reasoning to Predict the Future](https://arxiv.org/abs/2512.25070).     
+    **Nikhil Chandak**, Shashwat Goel, Ameya Prabhu, Moritz Hardt, Jonas Geiping.\
+      <i>International Conference on Machine Learning (ICML)</i>, 2026.\
+      (accepted as <i>Curating the Future: A Scalable Recipe for Training Open-Ended Forecasters</i>)
+    <details>
+                <summary>Abstract | <a href="https://arxiv.org/abs/2512.25070">Arxiv</a> | <a href="https://openforecaster.github.io">Website</a> | <a href="https://github.com/OpenForecaster/scaling-forecasting-training">Code</a> | <a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Bibtex') } else { $('#' + id).show('fast'); $(target).text('Bibtex▲') } })(this, 'bibtex-chandak2025scaling');">Bibtex</a> </summary>   
+                  <p class="message">
+                  We train language models to make predictions on open-ended forecasting questions, scaling up training data by synthesizing novel forecasting questions from global events reported in daily news using a fully automated curation recipe. We release OpenForesight, our training data with 52k forecasting questions, and train OpenForecaster 8B, a specialized model that matches much larger proprietary models. Training improves the accuracy, calibration, and consistency of predictions, with calibration gains transferring to other benchmarks. All models, code, and data are open-sourced to make research on language model forecasting broadly accessible.
+                  </p>
+    </details>
+
+<div id="bibtex-chandak2025scaling" class="bibtex" style="display:none">
+<pre>@article{chandak2025scaling,
+  title={Scaling Open-Ended Reasoning to Predict the Future},
+  author={Chandak, Nikhil and Goel, Shashwat and Prabhu, Ameya and Hardt, Moritz and Geiping, Jonas},
+  journal={arXiv preprint arXiv:2512.25070},
+  year={2025}
+}
+</pre></div>
+
+* [Answer Matching Outperforms Multiple Choice for Language Model Evaluation](https://arxiv.org/abs/2507.02856).     
+    **Nikhil Chandak**, Shashwat Goel, Ameya Prabhu, Moritz Hardt, Jonas Geiping.\
+      <i>Preprint</i>, 2025.
+    <details>
+                <summary>Abstract | <a href="https://arxiv.org/abs/2507.02856">Arxiv</a> | <a href="https://github.com/nikhilchandak/answer-matching">Code</a> | <a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Bibtex') } else { $('#' + id).show('fast'); $(target).text('Bibtex▲') } })(this, 'bibtex-chandak2025answer');">Bibtex</a> </summary>   
+                  <p class="message">
+                  Multiple choice benchmarks have long been the workhorse of language model evaluation because grading multiple choice is objective and easy to automate. However, we show that multiple choice questions from popular benchmarks can often be answered without even seeing the question. This shortcut arises from a fundamental limitation of discriminative evaluation not shared by evaluations of the model's free-form, generative answers. We propose answer matching: give the candidate model the question without the options, have it generate a free-form response, then use a modern language model with the reference answer to determine if the response matches the reference. Answer matching achieves near-perfect agreement with human grading, outperforming multiple choice and LLM-as-a-judge evaluations.
+                  </p>
+    </details>
+
+<div id="bibtex-chandak2025answer" class="bibtex" style="display:none">
+<pre>@article{chandak2025answer,
+  title={Answer Matching Outperforms Multiple Choice for Language Model Evaluation},
+  author={Chandak, Nikhil and Goel, Shashwat and Prabhu, Ameya and Hardt, Moritz and Geiping, Jonas},
+  journal={arXiv preprint arXiv:2507.02856},
+  year={2025}
+}
+</pre></div>
+
 ## <a name="year2024"></a> 2024  
 
 * [Proportional Aggregation of Preferences for Sequential Decision Making](https://arxiv.org/abs/2306.14858).     

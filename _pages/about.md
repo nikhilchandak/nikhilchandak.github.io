@@ -12,27 +12,47 @@ redirect_from:
 ------
 -->
 
-I'm a ELLIS PhD student at the Max Planck Institute for Intelligent Systems, advised by Prof. <a href="https://www.mrtz.org/">Moritz Hardt</a>. My research is broadly in the domain of LLM post-training and AI evals. 
+I'm a ELLIS PhD student at the Max Planck Institute for Intelligent Systems, advised by Prof. <a href="https://www.mrtz.org/">Moritz Hardt</a> primarily and also co-advised by <a href="https://rockt.ai">Prof. Tim Rocktäschel</a>. My research is broadly in the domain of LLM post-training and AI evals. Currently, I'm interning at <a href="https://mistral.ai/">Mistral AI</a> in their post-training team in Paris, working on improving agents in hard-to-verify domains.
 
-These days, I am most excited about:
+Research interests:
 
 <ul>
   <li>
-    synthetic data (problem) generation pipelines for RL.
+    automated data curation and RSI (eg; hillclimbing PostTrainBench)
   </li>
   <li>
-    pushing model's capabilities in hard exploration problems (where pass@k is ~0) via curriculum learning techniques. The end-goal here would be to approach scientific discovery problems like open math conjectures.
+    building open-ended long-horizon evals
   </li>
   <li>
-    agentic training of LLMs for long-horizon tasks with tool use. 
+    parallel inference-time compute (multi-agent), counterfactual simulations, unsupervised env design
+  </li>
+  <li>
+    pushing model's capabilities in hard exploration problems (where pass@k is ~0). 
   </li>
 </ul>
 
-Past Work: My recent <a href="https://openreview.net/forum?id=91SrFSFNki&referrer=%5Bthe%20profile%20of%20Ameya%20Prabhu%5D(%2Fprofile%3Fid%3D~Ameya_Prabhu1)">project</a> has been on scaling data (synthetically) for training language models to become better at forecasting future events with RL. I also like working on meaningful evaluations and have <a href="https://arxiv.org/abs/2507.02856">pushed</a> for shifting the QA evals ecosystem from MCQ to more open-ended benchmarks.
+<!--
+Past Work: My recent <a href="https://arxiv.org/abs/2512.25070">project</a> has been on scaling data (synthetically) for training language models to become better at forecasting future events with RL. I also like working on meaningful evaluations and have <a href="https://arxiv.org/abs/2507.02856">pushed</a> for shifting the QA evals ecosystem from MCQ to more open-ended benchmarks.
+-->
 
 
 News
 ------
+
+<ul>
+  <li>
+    [July'26] Presenting OpenForecaster and FutureSim at <a href="https://icml.cc/">ICML'26</a> in Seoul! Reach out if you wanna chat about evals, post-training, open-endedness, and forecasting. 
+  </li>
+  <li>
+    [June'26] Joined <a href="https://mistral.ai/">Mistral AI</a> as an intern in their post-training team. Based in Paris from June to September.
+  </li>
+  <li>
+    [May'26] <b>FutureSim</b> is out! A benchmark that replays real-world events to evaluate how agents adapt their predictions as new information arrives over time with a horizon of 3 months. <a href="https://arxiv.org/abs/2605.15188">[Paper]</a> <a href="https://openforecaster.github.io">[Website]</a>
+  </li>
+  <li>
+    [Dec'25] We released <b>OpenForecaster</b>! We scale open-ended reasoning to predict the future, training an 8B model that matches much larger proprietary models at <i>judgemental forecasting</i>. Models, code, and data are all open-sourced. <a href="https://arxiv.org/abs/2512.25070">[Paper]</a> <a href="https://openforecaster.github.io">[Website]</a>
+  </li>
+</ul>
 
 <details>
   <summary>Old</summary>
