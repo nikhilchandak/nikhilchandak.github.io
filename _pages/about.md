@@ -12,13 +12,15 @@ redirect_from:
 ------
 -->
 
-I'm a ELLIS PhD student at the Max Planck Institute for Intelligent Systems, advised by Prof. <a href="https://www.mrtz.org/">Moritz Hardt</a> primarily and also co-advised by <a href="https://rockt.ai">Prof. Tim Rocktäschel</a>. My research is broadly in the domain of LLM post-training and AI evals. Currently, I'm interning at <a href="https://mistral.ai/">Mistral AI</a> in their post-training team in Paris, working on improving agents in hard-to-verify domains.
+I'm a PhD student at the Max Planck Institute for Intelligent Systems, primarily advised by Prof. <a href="https://www.mrtz.org/">Moritz Hardt</a> and also co-advised by <a href="https://rockt.ai">Prof. Tim Rocktäschel</a>. My research is broadly in the domain of LLM post-training and AI evals. 
+
+I'm currently interning at <a href="https://mistral.ai/">Mistral AI</a> in their post-training team in Paris, working on improving agents in hard-to-verify domains.
 
 Research interests:
 
 <ul>
   <li>
-    automated data curation and RSI (eg; hillclimbing PostTrainBench)
+    automated data curation and RSI (eg: hillclimbing PostTrainBench)
   </li>
   <li>
     building open-ended long-horizon evals
@@ -41,16 +43,16 @@ News
 
 <ul>
   <li>
-    [July'26] Presenting OpenForecaster and FutureSim at <a href="https://icml.cc/">ICML'26</a> in Seoul! Reach out if you wanna chat about evals, post-training, open-endedness, and forecasting. 
+    [July'26] Presenting <a href="https://openforecaster.github.io/scaling-data/">OpenForecaster</a> and <a href="https://openforecaster.github.io/futuresim/">FutureSim</a> at <a href="https://icml.cc/">ICML'26</a> in Seoul! Reach out if you wanna chat about evals, post-training, open-endedness, and forecasting. 
   </li>
   <li>
-    [June'26] Joined <a href="https://mistral.ai/">Mistral AI</a> as an intern in their post-training team. Based in Paris from June to September.
+    [June'26] Joined <a href="https://mistral.ai/">Mistral AI</a> as an intern in their post-training team. Based in Paris from June to September. Hmu if you would like to chat! 
   </li>
   <li>
-    [May'26] <b>FutureSim</b> is out! A benchmark that replays real-world events to evaluate how agents adapt their predictions as new information arrives over time with a horizon of 3 months. <a href="https://arxiv.org/abs/2605.15188">[Paper]</a> <a href="https://openforecaster.github.io">[Website]</a>
+    [May'26] <b>FutureSim</b> is out! A benchmark that replays real-world events to evaluate how agents adapt their predictions as new information arrives over time with a horizon of 3 months. <a href="https://arxiv.org/abs/2605.15188">[Paper]</a> <a href="https://openforecaster.github.io/futuresim/">[Website]</a>
   </li>
   <li>
-    [Dec'25] We released <b>OpenForecaster</b>! We scale open-ended reasoning to predict the future, training an 8B model that matches much larger proprietary models at <i>judgemental forecasting</i>. Models, code, and data are all open-sourced. <a href="https://arxiv.org/abs/2512.25070">[Paper]</a> <a href="https://openforecaster.github.io">[Website]</a>
+    [Dec'25] We released <b>OpenForecaster</b>! We scale open-ended reasoning to predict the future, training an 8B model that matches much larger proprietary models at <i>judgemental forecasting</i>. Models, code, and data are all open-sourced. <a href="https://arxiv.org/abs/2512.25070">[Paper]</a> <a href="https://openforecaster.github.io/scaling-data/">[Website]</a>
   </li>
 </ul>
 
