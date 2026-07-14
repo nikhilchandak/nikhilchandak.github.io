@@ -43,6 +43,9 @@ News
 
 <ul>
   <li>
+    [July'26] <b>FutureSim</b> received the <span style="color: red;"> Best Paper Award </span> (Top 1 / 187) at the AI for Forecasting Workshop at <a href="https://icml.cc/">ICML'26</a>! 
+  </li>
+  <li>
     [July'26] Presenting <a href="https://openforecaster.github.io/scaling-data/">OpenForecaster</a> and <a href="https://openforecaster.github.io/futuresim/">FutureSim</a> at <a href="https://icml.cc/">ICML'26</a> in Seoul! Reach out if you wanna chat about evals, post-training, open-endedness, and forecasting. 
   </li>
   <li>
