@@ -83,7 +83,8 @@ You can also find my articles on my
 
 * [FutureSim: Replaying World Events to Evaluate Adaptive Agents](https://arxiv.org/abs/2605.15188).     
     Shashwat Goel, **Nikhil Chandak**, Arvindh Arun, Ameya Prabhu, Steffen Staab, Moritz Hardt, Maksym Andriushchenko, Jonas Geiping.\
-      <i>AI Forecasting Workshop, ICML</i>, 2026.\ <span style="color: red;"> Best Paper Award </span> (Top 1 / 187)
+      <i>AI Forecasting Workshop, ICML</i>, 2026.\
+      <span style="color: red;"> Best Paper Award </span> (Top 1 / 187)
     <details>
                 <summary>Abstract | <a href="https://arxiv.org/abs/2605.15188">Arxiv</a> | <a href="https://openforecaster.github.io">Website</a> | <a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Bibtex') } else { $('#' + id).show('fast'); $(target).text('Bibtex▲') } })(this, 'bibtex-goel2026futuresim');">Bibtex</a> </summary>   
                   <p class="message">
