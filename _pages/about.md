@@ -43,10 +43,10 @@ News
 
 <ul>
   <li>
-    [July'26] <b>FutureSim</b> received the <span style="color: red;"> Best Paper Award </span> at the AI Forecasting Workshop at <a href="https://forecasting-workshop.github.io">ICML'26</a>! 
+    [July'26] <b>FutureSim</b> received the <span style="color: red;"> Best Paper Award </span> at the  <a href="https://forecasting-workshop.github.io">AI Forecasting Workshop</a> at ICML'26! 
   </li>
   <li>
-    [July'26] Presenting <a href="https://openforecaster.github.io/scaling-data/">OpenForecaster</a> and <a href="https://openforecaster.github.io/futuresim/">FutureSim</a> at <a href="https://icml.cc/">ICML'26</a> in Seoul! Reach out if you wanna chat about evals, post-training, open-endedness, and forecasting. 
+    [July'26] Presenting <a href="https://openforecaster.github.io/scaling-data/">OpenForecaster</a> and <a href="https://openforecaster.github.io/futuresim/">FutureSim</a> at <a href="https://icml.cc/">ICML'26</a> in Seoul! <!-- Reach out if you wanna chat about evals, post-training, open-endedness, and forecasting. --> 
   </li>
   <li>
     [June'26] Joined <a href="https://mistral.ai/">Mistral AI</a> as an intern in their post-training team. Based in Paris from June to September. Hmu if you would like to chat! 
